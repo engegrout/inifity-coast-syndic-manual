@@ -597,12 +597,32 @@ video {
   height: 100vh;
 }
 
+.h-60 {
+  height: 15rem;
+}
+
+.h-64 {
+  height: 16rem;
+}
+
 .min-h-dvh {
   min-height: 100dvh;
 }
 
+.w-6 {
+  width: 1.5rem;
+}
+
 .w-screen {
   width: 100vw;
+}
+
+.w-44 {
+  width: 11rem;
+}
+
+.w-96 {
+  width: 24rem;
 }
 
 .flex-1 {
